@@ -20,14 +20,14 @@ body {
 button {
     padding: 10px 15px;
     border: none;
-    background-color: #66db34;
+    background-color: #2c810a;
     color: white;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #0b8ee4;
 }
 button:hover {
     background-color: red;
